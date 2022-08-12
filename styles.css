@@ -1,0 +1,11 @@
+body {
+    background-color: #084b83;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Roboto', sans-serif
+}
+
+.container {
+    display: flex;
+    
+}
